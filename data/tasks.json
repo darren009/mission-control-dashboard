@@ -3,7 +3,7 @@
     "id": "task_001",
     "title": "测试任务 - 回复收到",
     "description": "这是第一个测试任务，灵宝收到后请回复'收到任务'",
-    "status": "backlog",
+    "status": "in_progress",
     "priority": "high",
     "subtasks": [
       {
